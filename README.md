@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <style>
-    .img{
+    p{
         align-items: center;
     }
 </style>
