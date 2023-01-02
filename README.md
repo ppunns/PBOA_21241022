@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    img{
+        align-items: center;
+    }
+</style>
 <body>
     <div>
         <div>
