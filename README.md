@@ -1,6 +1,11 @@
 ### Hi there, I'm Lalu Kaspun Nuri
 
 ### and here is my stats
+<style>
+  *{
+  lign-items: center;
+  }
+</style>
 <!-- <p align="center" p> -->
 <!-- <img src="https://www.codewars.com/users/ppunns/badges/large"/><br /><br /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=ppunns&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
@@ -8,17 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppunns&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-<!--
-**ppunns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--aneh-->
