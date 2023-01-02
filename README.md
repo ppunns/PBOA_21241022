@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-    p{
-        align-items: center;
-    }
-</style>
+
 <body>
+    <p align="center">
     <div>
         <div>
             <p>
