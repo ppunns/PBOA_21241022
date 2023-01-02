@@ -1,4 +1,4 @@
-### Hi there, I'm Lalu Kaspun Nuri👋
+### Hi there, I'm Lalu Kaspun Nuri
 
 ### and here is my stats
 <!-- <p>align="center"</p> -->
